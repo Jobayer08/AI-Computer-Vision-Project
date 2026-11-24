@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+images/
+data/
+train.csv
+
+# Model weights
+*.pth
+*.pt
+*.onnx
+
+# Experiment tracking
+mlruns/
+logs/
+
+# OS
+.DS_Store
